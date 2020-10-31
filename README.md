@@ -1,5 +1,5 @@
 # LBE[RPL]
-## Tugas minggu ke-1
+### Tugas minggu ke-1
 
 Membuat resume dengan menggunakan:
 1. HTML
